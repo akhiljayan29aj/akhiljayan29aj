@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <!--
 **akhiljayan29aj/akhiljayan29aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Technical Skills
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
+<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > <br />
+<img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
+<img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
+
+
 
 Here are some ideas to get you started:
 
