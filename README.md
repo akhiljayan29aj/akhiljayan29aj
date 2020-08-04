@@ -7,7 +7,7 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
 🤔Looking for internships which would help me make most of my skills.
 
 ### Skills I Have
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-ARDUINO-4FCCF3?style=for-the-badge&logo=arduino&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=for-the-badge&logo=python&logoColor=white"><br />
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-ARDUINO-4FCCF3?style=for-the-badge&logo=arduino&logoColor=white"><br />
 
 ### Currently learning
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <br />
