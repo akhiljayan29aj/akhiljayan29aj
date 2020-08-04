@@ -16,14 +16,17 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
 <img src="https://img.shields.io/badge/-React-161616?style=for-the-badge&logo=react&logoColor=00d9ff"> <img src="https://img.shields.io/badge/-PHP-5466b8?style=for-the-badge&logo=php&logoColor=white" > <br />
 
 
+Reach Me at:
 
-
-<a href="https://twitter.com/aj_akhiljayan29">
-  <img align="left" alt="Akhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<img align="left" alt="Akhil's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" /> akhiljayan29.aj@gmail.com
+<br/>
 <a href="https://www.linkedin.com/in/akhil-jayan-569859175/">
   <img align="left" alt="Akhil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/akhiljayan29aj">
   <img align="left" alt="Akhil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://twitter.com/aj_akhiljayan29">
+  <img align="left" alt="Akhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
