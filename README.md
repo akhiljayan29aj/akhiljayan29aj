@@ -15,6 +15,7 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
 ### Future Learning Goals
 <img src="https://img.shields.io/badge/-React-161616?style=for-the-badge&logo=react&logoColor=00d9ff"> <img src="https://img.shields.io/badge/-PHP-5466b8?style=for-the-badge&logo=php&logoColor=white" > <br />
 
+![Akhil's Github Stats](https://github-readme-stats.vercel.app/api?username=akhiljayan29aj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 Reach Me at:
 
@@ -31,4 +32,4 @@ Reach Me at:
   <img align="left" alt="Akhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-![Akhil's Github Stats](https://github-readme-stats.vercel.app/api?username=akhiljayan29aj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
