@@ -1,5 +1,7 @@
 ## Hey there! I am Akhil. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+<img align="right"  src="./gif/tech.gif">
+
 I am an Undergraduate student pursuing B. Tech degree. Always willing to learn and implement. Have experience in the field of FrontEnd Web Development. Looking forward to learn BackEnd Web Development.
 
 🤔Looking for internships which would help me make most of my skills.
