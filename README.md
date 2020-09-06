@@ -25,11 +25,6 @@ Reach Me at:
 <a href="https://www.linkedin.com/in/akhil-jayan-569859175/">
   <img align="left" alt="Akhil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/akhiljayan29aj">
-  <img align="left" alt="Akhil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://twitter.com/aj_akhiljayan29">
-  <img align="left" alt="Akhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 
 
