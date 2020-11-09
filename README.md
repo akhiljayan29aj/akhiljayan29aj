@@ -10,10 +10,10 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-ARDUINO-4FCCF3?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/-SASS-CD6799?style=for-the-badge&logo=sass&logoColor=white"><br />
 
 ### Currently learning
-<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <br />
 
 ### Future Learning Goals
-<img src="https://img.shields.io/badge/-React-161616?style=for-the-badge&logo=react&logoColor=00d9ff"> <img src="https://img.shields.io/badge/-PHP-5466b8?style=for-the-badge&logo=php&logoColor=white" > <br />
+<img src="https://img.shields.io/badge/-React-161616?style=for-the-badge&logo=react&logoColor=00d9ff">  <br />
 
 ![Akhil's Github Stats](https://github-readme-stats.vercel.app/api?username=akhiljayan29aj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
