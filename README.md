@@ -20,10 +20,10 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
 Reach Me at:
 
 <a href="mailto:akhiljayan29.aj@gmail.com">
-  <img align="left" alt="Akhil's GMail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
+  <img align="left" alt="Akhil's GMail" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
 </a>
 <a href="https://www.linkedin.com/in/akhil-jayan-569859175/">
-  <img align="left" alt="Akhil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Akhil's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 
 
