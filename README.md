@@ -12,7 +12,7 @@ I am an Undergraduate student pursuing B. Tech degree. Always willing to learn a
 
 
 ### Currently learning
-<img src="https://img.shields.io/badge/-Java-161616?style=for-the-badge&logo=java&logoColor=007396"><br />
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-MY%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br />
 
 ### Future Learning Goals
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
